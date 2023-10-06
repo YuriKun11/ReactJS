@@ -1,0 +1,22 @@
+About react
+
+Jsx - JavaScript XML, allows to write Html codes inside Javascript
+DOM - Document Object Model 
+React Components - Building block, reusable code
+
+Install react
+	npx create-react-app reactApp
+
+Start React
+	npm start
+
+
+	PROJECT STRUCTURE
+		src>component>assets(new folder)
+			>file.jsx
+			>styles.css
+		App.js
+	
+	Import the main jsx file into the App.js
+		
+		import FirstLesson from './component/jsxfolder/firstLesson.jsx';
